@@ -2,14 +2,17 @@ This repository contains academic work completed during my studies in Informatic
 
 To maintain a clear and structured organisation, each academic year is maintained in a separate branch:
 
-1st-year
-2nd-year
-3rd-year
-Within each branch, subjects are organised individually and may include:
++ 1st-year 
++ 2nd-year 
++ 3rd-year 
 
-Lecture materials
-Seminar exercises
-Laboratory work
-Programming exercises
-Course projects
-The repository serves as a structured archive of the knowledge, practical work, and projects developed throughout the programme.
+Content may include:
+
+- Lectures
+- Seminar work
+- Laboratory work
+- Programming exercises
+- Coursework assignments
+- Individual and group projects
+
+This repository serves as a structured archive of my academic development throughout the programme.
